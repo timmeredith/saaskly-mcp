@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "saaskly": {
+      "type": "http",
+      "url": "https://saaskly.com/mcp"
+    }
+  }
+}

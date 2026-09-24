@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.saaskly/reviews",
+  "title": "Saaskly: B2B software reviews and comparisons",
+  "description": "Independent UK business software reviews, rankings and real pricing as read-only MCP tools.",
+  "repository": {
+    "url": "https://github.com/timmeredith/saaskly-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://saaskly.com/mcp"
+    }
+  ]
+}
